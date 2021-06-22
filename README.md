@@ -1,6 +1,21 @@
 # Frontend part of twitter clone project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive twitter clone built using React.js where user can post and read tweets.
+
+## Current features:-
+1. Publish tweets to profile
+2. Read published tweets from database
+
+## Additional modules used for frontend app are as follows:-
+1. React router
+2. React icons
+3. Boostrap
+
+## Screenshots:-
+<p>
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1624385212/TwitterClone/Screenshot_2021-06-22_at_11.33.37_PM_w96qzy.png" width=500 />
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1624385206/TwitterClone/Screenshot_2021-06-22_at_11.33.59_PM_rjude0.png" width=300 />
+<p>  
 
 ## Available Scripts
 
